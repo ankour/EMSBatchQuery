@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/jsoup-1.8.1.jar"/>
+	<classpathentry kind="con" path="org.dyno.visual.swing.VS_LIBRARY/layoutext"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/httppost和httpget需要的jar包/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/httppost和httpget需要的jar包/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/httppost和httpget需要的jar包/httpcore-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/桌面/swingx-1.6.1.jar/swingx-1.6.1.jar/swingx-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
